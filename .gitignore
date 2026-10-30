@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 djangoenv/
+server/cookies.txt
+server/djangoapp/microservices/sentenv/
