@@ -55,7 +55,7 @@ const Register = () => {
         </div>
         <div className="mb-3">
           <label>Email</label>
-          <input type="email" name="email" placeholder="Email" className="form-control" onChange={(e) => setEmail(e.target.value)} />
+          <input type="email" name="email" placeholder="email" className="form-control" onChange={(e) => setEmail(e.target.value)} />
         </div>
         <div className="mb-3">
           <label>Password</label>
