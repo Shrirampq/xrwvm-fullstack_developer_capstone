@@ -1,4 +1,4 @@
-# Project Name: Best Cars Dealership
+# Project Name: fullstack_developer_capstone
 
 **Repository name:** xrwvm-fullstack_developer_capstone
 
